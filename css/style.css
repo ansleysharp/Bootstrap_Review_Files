@@ -39,7 +39,7 @@ body {
 /*--- Landing Page ---*/
 
 .home-inner {
-    background-image: url(.../img/computers.png);
+    background-image: url(../img/backdrop.png);
 }
 .caption{
     width: 100%;
